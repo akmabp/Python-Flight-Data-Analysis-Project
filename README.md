@@ -4,7 +4,7 @@
 This project involves analyzing flight data to uncover insights regarding flight cancellations, delays, and patterns in flight performance. The analysis uses various datasets related to flights, airports, and airlines, including cancellation rates, delay times, and geographical trends.
 
 ## Project Overview
-In this project, I worked with three datasets:
+I worked with three datasets:
 - **Flights**: Contains information about each flight, including the airline, origin, destination, delays, cancellations, and more.
 - **Airports**: Contains information about airports, such as airport codes and names.
 - **Airlines**: Contains information about airline codes and names.
